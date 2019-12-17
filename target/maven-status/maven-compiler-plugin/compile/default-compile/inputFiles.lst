@@ -1,0 +1,10 @@
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/AppTrajeto.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/service/TrajetoService.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/util/DataUtil.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/model/TrajetoModel.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/controller/TrajetoController.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/vo/TrajetoVo.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/controller/Controller.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/service/VersaoService.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/controller/VersaoController.java
+/home/jefferson/trabalho/pessoal/rastreamento/backend/trajeto/src/main/java/br/com/send/trajeto/repository/TrajetoRepository.java
